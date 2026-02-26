@@ -5,8 +5,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-//todo: allow for conversion of inches as well
-
 public class dFFrame {
     JPanel panel;
     JFrame frame;
